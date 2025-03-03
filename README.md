@@ -1,4 +1,5 @@
 # arduino_car_v1
+# Descrição do projeto:
 -  Projeto de carro de Arduino para facilitar o entendimento da programação para iniciantes.
 -  Código desenvolvido para o teste de todas as funcionalidades do carro de Arduino, também para documentação das bibliotecas utilizadas para seu funcionamento, tanto como exemplos de boas maneiras e código.
 
