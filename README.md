@@ -2,6 +2,8 @@
 # Descrição do projeto:
 -  Projeto de carro de Arduino para facilitar o entendimento da programação para iniciantes.
 -  Código desenvolvido para o teste de todas as funcionalidades do carro de Arduino, também para documentação das bibliotecas utilizadas para seu funcionamento, tanto como exemplos de boas maneiras e código.
+-  Projeto da PCB do carro, no qual está sendo projetado para uma versão fisica aprimorada.
+-  Não há versão digitalizada do antigo circuito.
 
 # Bibliotecas utilizadas:
 - Bibliotecas instaladas diretamente da IDE Arduino. Creditos aos seus devidos criadores.
