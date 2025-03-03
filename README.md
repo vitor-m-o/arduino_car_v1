@@ -4,6 +4,7 @@
 -  Código desenvolvido para o teste de todas as funcionalidades do carro de Arduino, também para documentação das bibliotecas utilizadas para seu funcionamento, tanto como exemplos de boas maneiras e código.
 
 # Bibliotecas utilizadas:
+- Bibliotecas instaladas diretamente da IDE Arduino. Creditos aos seus devidos criadores.
 - Ultrasonic
 - U8glib
 - SoftwareSerial
