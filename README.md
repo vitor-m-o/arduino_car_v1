@@ -3,7 +3,9 @@
 -  Código desenvolvido para o teste de todas as funcionalidades do carro de Arduino, também para documentação das bibliotecas utilizadas para seu funcionamento, tanto como exemplos de boas maneiras e código.
 
 # Bibliotecas utilizadas:
-- Ultrasonic; U8glib; SoftwareSerial;
+- Ultrasonic
+- U8glib
+- SoftwareSerial
 
 # Linguagem utilizada:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" height="50"/>
