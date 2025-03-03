@@ -6,7 +6,7 @@
 - Ultrasonic; U8glib; SoftwareSerial;
 
 # Linguagem utilizada:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" height="50"/>
 
 # Autor:
 
